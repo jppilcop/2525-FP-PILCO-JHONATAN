@@ -58,7 +58,7 @@ temperaturas = [
             {"day": "Jueves", "temp": 14},
             {"day": "Viernes", "temp": 16},
             {"day": "Sábado", "temp": 18},
-            {"day": "Domingo", "temp": 19}
+           {"day": "Domingo", "temp": 19}
         ],
         [  # Semana 3
             {"day": "Lunes", "temp": 9},
